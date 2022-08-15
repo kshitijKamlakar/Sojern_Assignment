@@ -1,0 +1,5 @@
+To scale up the system so that it can handle more concurrent users. Below are the solutions. 
+
+1. Increasing the RAM so that the server can handle multiple users. 
+2. Using load balancer with multiple server so that the request can be serve without overloading the server.
+3. To improve the efficiency, cache memory can be used and a shared cache memory can be used with multiple server. 

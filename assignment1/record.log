@@ -1,0 +1,214 @@
+2022-08-14 12:59:37,777 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2022-08-14 12:59:37,777 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 12:59:37,778 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 12:59:37,966 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 12:59:37,974 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:09,068 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:09,069 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:09,322 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6000
+2022-08-14 13:02:09,322 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:02:09,322 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 13:02:09,640 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:09,645 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:09,749 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:09,749 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:15,241 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2022-08-14 13:02:15,242 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:02:15,242 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 13:02:15,436 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:15,441 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:17,570 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:17,570 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:17,825 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6000
+2022-08-14 13:02:17,825 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:02:17,825 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 13:02:18,041 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:18,045 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:22,868 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:02:22,868 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:02:39,775 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6000
+2022-08-14 13:02:39,775 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:29:51,219 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6000
+2022-08-14 13:29:51,220 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:31:31,719 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2022-08-14 13:31:31,719 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:31:31,720 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 13:31:31,914 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:31:31,919 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:31:42,877 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:31:42,877 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:32:32,067 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2022-08-14 13:32:32,067 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:32:32,068 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 13:32:32,252 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:32:32,257 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:32:34,939 INFO werkzeug Thread-2 : 127.0.0.1 - - [14/Aug/2022 13:32:34] "[33mGET /img HTTP/1.1[0m" 404 -
+2022-08-14 13:32:45,025 INFO werkzeug Thread-3 : 127.0.0.1 - - [14/Aug/2022 13:32:45] "[33mGET /img HTTP/1.1[0m" 404 -
+2022-08-14 13:32:50,651 INFO werkzeug Thread-4 : 127.0.0.1 - - [14/Aug/2022 13:32:50] "[33mGET /min HTTP/1.1[0m" 404 -
+2022-08-14 13:32:55,977 INFO werkzeug Thread-5 : 127.0.0.1 - - [14/Aug/2022 13:32:55] "[33mGET /ping HTTP/1.1[0m" 404 -
+2022-08-14 13:32:59,426 INFO werkzeug Thread-6 : 127.0.0.1 - - [14/Aug/2022 13:32:59] "[33mPOST /ping HTTP/1.1[0m" 404 -
+2022-08-14 13:33:08,157 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:33:08,157 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:33:23,528 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2022-08-14 13:33:23,528 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:33:23,529 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-14 13:33:23,717 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:33:23,722 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:33:35,569 INFO werkzeug Thread-2 : 127.0.0.1 - - [14/Aug/2022 13:33:35] "[33mPOST /ping HTTP/1.1[0m" 404 -
+2022-08-14 13:33:36,669 INFO werkzeug Thread-3 : 127.0.0.1 - - [14/Aug/2022 13:33:36] "[33mPOST /ping HTTP/1.1[0m" 404 -
+2022-08-14 13:33:37,184 INFO werkzeug Thread-4 : 127.0.0.1 - - [14/Aug/2022 13:33:37] "[33mPOST /ping HTTP/1.1[0m" 404 -
+2022-08-14 13:33:57,233 INFO werkzeug Thread-5 : 127.0.0.1 - - [14/Aug/2022 13:33:57] "[33mGET /img HTTP/1.1[0m" 404 -
+2022-08-14 13:33:57,438 INFO werkzeug Thread-6 : 127.0.0.1 - - [14/Aug/2022 13:33:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-08-14 13:34:08,164 INFO werkzeug Thread-7 : 127.0.0.1 - - [14/Aug/2022 13:34:08] "[33mGET /img HTTP/1.1[0m" 404 -
+2022-08-14 13:34:58,925 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-14 13:34:58,925 INFO werkzeug MainThread :  * Debugger PIN: 105-981-030
+2022-08-14 13:41:27,897 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-08-14 13:41:27,897 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:41:30,400 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:41:30,400 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:41:30,400 INFO root Thread-1 : /img API called
+2022-08-14 13:41:30,403 INFO werkzeug Thread-1 : 127.0.0.1 - - [14/Aug/2022 13:41:30] "GET /img HTTP/1.1" 200 -
+2022-08-14 13:42:49,484 WARNING flask_cors.core Thread-2 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:42:49,484 WARNING flask_cors.core Thread-2 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:42:49,485 ERROR tracking_web_services Thread-2 : Exception on /ping [POST]
+Traceback (most recent call last):
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/helpers.py", line 209, in make_response
+    return current_app.make_response(args)  # type: ignore
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2170, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a int.
+2022-08-14 13:42:49,490 INFO werkzeug Thread-2 : 127.0.0.1 - - [14/Aug/2022 13:42:49] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+2022-08-14 13:42:55,492 WARNING flask_cors.core Thread-3 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:42:55,493 WARNING flask_cors.core Thread-3 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:42:55,493 ERROR tracking_web_services Thread-3 : Exception on /ping [POST]
+Traceback (most recent call last):
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/helpers.py", line 209, in make_response
+    return current_app.make_response(args)  # type: ignore
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2170, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a int.
+2022-08-14 13:42:55,493 INFO werkzeug Thread-3 : 127.0.0.1 - - [14/Aug/2022 13:42:55] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+2022-08-14 13:43:01,075 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-08-14 13:43:01,075 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:43:03,012 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:43:03,012 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:43:03,012 INFO root Thread-1 : /ping API called
+2022-08-14 13:43:03,012 ERROR root Thread-1 : 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-08-14 13:43:03,012 INFO root Thread-1 : Response 503
+2022-08-14 13:43:03,012 ERROR tracking_web_services Thread-1 : Exception on /ping [POST]
+Traceback (most recent call last):
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/helpers.py", line 209, in make_response
+    return current_app.make_response(args)  # type: ignore
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2170, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a int.
+2022-08-14 13:43:03,015 INFO werkzeug Thread-1 : 127.0.0.1 - - [14/Aug/2022 13:43:03] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+2022-08-14 13:46:06,813 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-08-14 13:46:06,814 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:46:10,003 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:46:10,003 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:46:10,004 INFO root Thread-1 : /ping API called
+2022-08-14 13:46:10,004 ERROR root Thread-1 : 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-08-14 13:46:10,004 INFO root Thread-1 : Response 503
+2022-08-14 13:46:10,004 ERROR tracking_web_services Thread-1 : Exception on /ping [POST]
+Traceback (most recent call last):
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/helpers.py", line 209, in make_response
+    return current_app.make_response(args)  # type: ignore
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2170, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a int.
+2022-08-14 13:46:10,008 INFO werkzeug Thread-1 : 127.0.0.1 - - [14/Aug/2022 13:46:10] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+2022-08-14 13:46:11,059 WARNING flask_cors.core Thread-2 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:46:11,059 WARNING flask_cors.core Thread-2 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:46:11,059 INFO root Thread-2 : /ping API called
+2022-08-14 13:46:11,059 ERROR root Thread-2 : 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-08-14 13:46:11,060 INFO root Thread-2 : Response 503
+2022-08-14 13:46:11,060 ERROR tracking_web_services Thread-2 : Exception on /ping [POST]
+Traceback (most recent call last):
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/helpers.py", line 209, in make_response
+    return current_app.make_response(args)  # type: ignore
+  File "/Users/kkamlakar/Development/test/lib/python3.9/site-packages/flask/app.py", line 2170, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a int.
+2022-08-14 13:46:11,060 INFO werkzeug Thread-2 : 127.0.0.1 - - [14/Aug/2022 13:46:11] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+2022-08-14 13:47:23,209 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-08-14 13:47:23,210 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-08-14 13:47:26,696 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: origin
+2022-08-14 13:47:26,697 WARNING flask_cors.core Thread-1 : Unknown option passed to Flask-CORS: headers
+2022-08-14 13:47:26,697 INFO root Thread-1 : /ping API called
+2022-08-14 13:47:26,697 ERROR root Thread-1 : 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-08-14 13:47:26,697 INFO root Thread-1 : Response 503
+2022-08-14 13:47:26,697 INFO werkzeug Thread-1 : 127.0.0.1 - - [14/Aug/2022 13:47:26] "[35m[1mPOST /ping HTTP/1.1[0m" 503 -
